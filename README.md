@@ -42,7 +42,7 @@ The script handles:
 ## 🚀 Usage
 
 ```bash
-git clone https://github.com/ghepardoman/NI-Multisim-14-for-Linux.git
+git clone https://github.com/AndreaLestingi/NI-Multisim-14-for-Linux.git
 cd NI-Multisim-14-for-Linux
 chmod +x install.sh
 ./install.sh
