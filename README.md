@@ -70,8 +70,13 @@ The script automatically downloads the **NI License Activator** from:
 https://github.com/AndreaLestingi/NI-Multisim-Crack-1.14/releases/download/activator/NI.License.Activator.exe
 ```
 
-The activator is run silently under Wine and applies the necessary license to Multisim. No manual intervention is required.
+When the activator window appears:
 
+1. You will see a list of NI products (Multisim, LabVIEW, etc.)
+2. Right-click on each product entry
+3. Select "Activate" from the context menu
+4. Close the activator window when done
+    
 > **Note:** The activator is provided for educational purposes only. Users are responsible for complying with all applicable laws and NI's licensing terms.
 
 ---
