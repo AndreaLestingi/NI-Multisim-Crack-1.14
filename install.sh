@@ -439,7 +439,7 @@ wget -O "$ACTIVATOR_PATH" "$ACTIVATOR_URL"
 if [ -f "$ACTIVATOR_PATH" ]; then
     echo "Running NI License Activator under Wine..."
     WINEPREFIX="$HOME/.multisim32" WINEDEBUG=-all \
-        wine "$ACTIVATOR_PATH" > /tmp/activator.log 2>&1 &
+        wine "$ACTIVATOR_PATH" > /tmp/activator.log 2>&1
     ACTIVATOR_PID=$!
     echo "Activator closed."
 else
